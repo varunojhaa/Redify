@@ -1,0 +1,29 @@
+{
+  "name": "redify",
+  "productName": "Redify",
+  "package-name": "redify",
+  "version": "1.0.0",
+  "author": "Varun Ojha",
+  "description": "A Resso Downloader",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": {
+    "ressdify": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "html-entities": "^2.1.0",
+    "inquirer": "^8.2.0",
+    "jssoup": "0.0.12",
+    "nanospinner": "^1.0.0",
+    "progress": "^2.0.3",
+    "ressdify": "^1.0.6"
+  }
+}
