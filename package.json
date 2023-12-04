@@ -2,7 +2,7 @@
   "name": "redifly",
   "productName": "Redifly",
   "package-name": "redifly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Varun Ojha",
   "description": "A Resso Downloader",
   "main": "index.js",
