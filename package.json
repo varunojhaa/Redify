@@ -1,7 +1,7 @@
 {
-  "name": "redify",
-  "productName": "Redify",
-  "package-name": "redify",
+  "name": "redifly",
+  "productName": "Redifly",
+  "package-name": "redifly",
   "version": "1.0.0",
   "author": "Varun Ojha",
   "description": "A Resso Downloader",
