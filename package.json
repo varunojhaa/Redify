@@ -11,7 +11,7 @@
     "start": "node ."
   },
   "bin": {
-    "ressdify": "index.js"
+    "redifly": "index.js"
   },
   "dependencies": {
     "axios": "^0.21.1",
