@@ -1,7 +1,7 @@
 {
   "name": "redify",
   "productName": "Redify",
-  "package-name": "redify",
+  "package-name": "redifly",
   "version": "1.0.0",
   "author": "Varun Ojha",
   "description": "A Resso Downloader",
@@ -11,7 +11,7 @@
     "start": "node ."
   },
   "bin": {
-    "ressdify": "./index.js"
+    "ressdify": "index.js"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -25,5 +25,14 @@
     "nanospinner": "^1.0.0",
     "progress": "^2.0.3",
     "ressdify": "^1.0.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunojhaa/Redify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varunojhaa/Redify/issues"
+  },
+  "homepage": "https://github.com/varunojhaa/Redify#readme"
 }
